@@ -1,4 +1,4 @@
-## Create a Customer Segmentation Report for Arvato Financial Solutions
+## Customer Segmentation Report for Arvato Financial Solutions
 
 ### Table of Contents
 
