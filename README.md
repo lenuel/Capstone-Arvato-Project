@@ -1,4 +1,4 @@
-### Create a Customer Segmentation Report for Arvato Financial Solutions
+## Create a Customer Segmentation Report for Arvato Financial Solutions
 
 ### Table of Contents
 
@@ -11,7 +11,8 @@
 ## Installation <a name="installation"></a>
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  I use Python version 3.7 to create the notebook with the following libraries Pandas, NumPy, Matplotlib, Scikit-Learn.One thing to note is that I use new version of scikit-learn to be able to use the new ColumnTransformer featrure. To install the newest Scikit-Learn run the following command:
-conda install -c scikit-learn 
+
+conda install scikit-learn 
 
 ## Project Motivation<a name="motivation"></a>
 
