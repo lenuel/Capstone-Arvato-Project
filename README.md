@@ -38,7 +38,7 @@ The trained model is used to make predictions on the campaign data as part of a 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@elenaivanova_65377).
+The main findings of the code can be found at the post available [here](https://medium.com/@elenaivanova_65377/customer-segmentation-report-for-arvato-financial-solutions-b08a01ac7bc0).
 
 ## Acknowledgements<a name="licensing"></a>
 
