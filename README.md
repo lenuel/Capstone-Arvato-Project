@@ -1,4 +1,5 @@
 ## Customer Segmentation Report for Arvato Financial Solutions
+![Alt text](pics/intro.png "Customer Segmentation Report")
 
 ### Table of Contents
 
